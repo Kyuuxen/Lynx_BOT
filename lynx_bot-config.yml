@@ -12,7 +12,7 @@ engine:                     # Engine settings
     max_depth: 8             # Half move max depth
     book:
       standard:              # List of book file paths for variant standard.
-        - engines/book1.bin
+        - renegade-net-29.bin
         - engines/book2.bin
 # #     atomic:                # List of book file paths for variant atomic.
 # #       - engines/atomicbook1.bin
